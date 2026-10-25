@@ -6,6 +6,14 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![AgriFarm marketplace](marketplace.png)
+
+![AgriFarm live farmer-to-buyer chat](live-chat.png)
+
+![AgriFarm buy and sell flow](buy-and-sell.png)
+
 ## The need
 
 Farmers needed a direct way to list their crops and talk to buyers in one app, without middlemen.
